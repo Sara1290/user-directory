@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  background-color: #282c35;
+}
+
+
+
+.card-number {
+  position: relative;
+  bottom: 7vh;
+  left: 36vw;
+
+}
+
+.header {
+  background-color: rgb(6, 180, 238);
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  font-size: calc(5px + 2vmin);
+  color: black;
+}
+
+.card {
+  margin: 100px 50px;
+  padding: 20px;
+  width: 40vw;
+  text-align: left;
+  position: relative;
+  background-color: white;
+  border: 1px solid black;
+  
+}
+
+.personal-info {
+  /* display: flex; */
+}
+
+
+.user-name {
+  text-decoration: underline deepskyblue;
+  
+}
+
+
